@@ -53,7 +53,7 @@ This exam demonstrates a real-time data streaming and analytics platform, built 
 ## Screenshots
 Here are some visualizations from the dashboard:
 
-![Average Session Length by Gender]([link_to_image1](https://drive.google.com/file/d/1YxHnrM5-Tuw-kVxvkq2Uyk8GJs0ojJgW/view?usp=sharing))
+![Average Session Length by Gender]([https://drive.google.com/file/d/1YxHnrM5-Tuw-kVxvkq2Uyk8GJs0ojJgW/view?usp=sharing])
 ![Total Page Visits Over Time]
 
 ## Future Enhancements

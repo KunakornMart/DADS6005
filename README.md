@@ -1,6 +1,4 @@
 # DADS6005
-Real-time Data Streaming and Analytics Project
-
 This exam demonstrates a real-time data streaming and analytics platform, built with a series of integrated tools: **Apache Kafka**, **ksqlDB**, **Apache Pinot**, and **Streamlit**. The objective is to ingest, process, and visualize large-scale, real-time data from various sources, using a series of transformations and aggregations for meaningful insights.
 
 ## Project Structure
@@ -41,23 +39,15 @@ This exam demonstrates a real-time data streaming and analytics platform, built 
       docker-compose up -d
       ```
 
-3. **Data Ingestion**:
-    - Execute the Python script to populate Kafka topics:
-      ```bash
-      python3 /home/ubuntu/source3_data.py
-      ```
+3. **Source Code and Documentation**:
+   - The full implementation code is provided in the file `source_code_6610422020.docx`.
+   - Detailed descriptions for each component are available in the file `report_6610422020.docx`.
 
-4. **Access the Dashboard**:
-    - Open the Streamlit dashboard at [Dashboard Link](http://ec2-47-129-89-174.ap-southeast-1.compute.amazonaws.com:8501) to visualize real-time metrics.
+## Dashboard Screenshot
+Here is an overview of the real-time data analytics dashboard:
 
-## Screenshots
-Here are some visualizations from the dashboard:
-
-![Average Session Length by Gender]([https://drive.google.com/file/d/1YxHnrM5-Tuw-kVxvkq2Uyk8GJs0ojJgW/view?usp=sharing])
-![Total Page Visits Over Time]
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1YxHnrM5-Tuw-kVxvkq2Uyk8GJs0ojJgW)
 
 ## Future Enhancements
 - Incorporate more data sources and additional ksqlDB transformations.
 - Extend Pinot schemas for more complex queries.
-
-For a detailed breakdown of the code, operations, and ksqlDB statements, please refer to the `Source_Code_6610422020.docx` and `Report_6610422020.docx` files.

@@ -1,7 +1,7 @@
 # DADS6005
 Real-time Data Streaming and Analytics Project
 
-This project demonstrates a real-time data streaming and analytics platform, built with a series of integrated tools: **Apache Kafka**, **ksqlDB**, **Apache Pinot**, and **Streamlit**. The objective is to ingest, process, and visualize large-scale, real-time data from various sources, using a series of transformations and aggregations for meaningful insights.
+This exam demonstrates a real-time data streaming and analytics platform, built with a series of integrated tools: **Apache Kafka**, **ksqlDB**, **Apache Pinot**, and **Streamlit**. The objective is to ingest, process, and visualize large-scale, real-time data from various sources, using a series of transformations and aggregations for meaningful insights.
 
 ## Project Structure
 1. **Data Sources**: 
@@ -53,8 +53,8 @@ This project demonstrates a real-time data streaming and analytics platform, bui
 ## Screenshots
 Here are some visualizations from the dashboard:
 
-![Average Session Length by Gender](link_to_image1)
-![Total Page Visits Over Time](link_to_image2)
+![Average Session Length by Gender]([link_to_image1](https://drive.google.com/file/d/1YxHnrM5-Tuw-kVxvkq2Uyk8GJs0ojJgW/view?usp=sharing))
+![Total Page Visits Over Time]
 
 ## Future Enhancements
 - Incorporate more data sources and additional ksqlDB transformations.

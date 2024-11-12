@@ -48,6 +48,8 @@ Here is an overview of the real-time data analytics dashboard:
 
 ![Dashboard Overview](https://drive.google.com/uc?export=view&id=1YxHnrM5-Tuw-kVxvkq2Uyk8GJs0ojJgW)
 
+You can view the live dashboard at [http://ec2-47-129-89-174.ap-southeast-1.compute.amazonaws.com:8501/](http://ec2-47-129-89-174.ap-southeast-1.compute.amazonaws.com:8501/).
+
 ## Future Enhancements
 - Incorporate more data sources and additional ksqlDB transformations.
 - Extend Pinot schemas for more complex queries.

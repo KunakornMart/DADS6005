@@ -50,6 +50,15 @@ Here is an overview of the real-time data analytics dashboard:
 
 You can view the live dashboard at [http://ec2-47-129-89-174.ap-southeast-1.compute.amazonaws.com:8501/](http://ec2-47-129-89-174.ap-southeast-1.compute.amazonaws.com:8501/).
 
+### Video Demonstration
+
+<video autoplay loop>
+  <source src="https://drive.google.com/uc?export=download&id=1YjaO8ZfxZiTBHHyhw1Z_O-C3c7JiP51Y" type="video/mp4">
+</video>
+
+You can view the live dashboard at [http://ec2-47-129-89-174.ap-southeast-1.compute.amazonaws.com:8501/](http://ec2-47-129-89-174.ap-southeast-1.compute.amazonaws.com:8501/).
+
+
 ## Future Enhancements
 - Incorporate more data sources and additional ksqlDB transformations.
 - Extend Pinot schemas for more complex queries.

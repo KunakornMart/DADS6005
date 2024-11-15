@@ -43,7 +43,7 @@ This exam demonstrates a real-time data streaming and analytics platform, built 
    - The full implementation code is provided in the file `source_code_6610422020`.
    - Detailed descriptions for each component are available in the file `report_6610422020`.
 
-## Dashboard Screenshot
+## Real-Time Data Streaming and Analytics Dashboard
 Here is an overview of the real-time data analytics dashboard:
 
 ![Dashboard Overview](https://drive.google.com/uc?export=view&id=1YxHnrM5-Tuw-kVxvkq2Uyk8GJs0ojJgW)

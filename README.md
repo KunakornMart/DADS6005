@@ -53,7 +53,7 @@ You can view the live dashboard at [http://ec2-47-129-89-174.ap-southeast-1.comp
 ### Video Demonstration
 
 <video autoplay loop>
-  <source src="https://drive.google.com/file/d/1YjaO8ZfxZiTBHHyhw1Z_O-C3c7JiP51Y/view?usp=drive_link" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1YjaO8ZfxZiTBHHyhw1Z_O-C3c7JiP51Y/view?usp=sharing" type="video/mp4">
 </video>
 
 ## Future Enhancements

@@ -48,7 +48,7 @@ Here is an overview of the real-time data analytics dashboard:
 
 ![Dashboard Overview](https://drive.google.com/uc?export=view&id=1YxHnrM5-Tuw-kVxvkq2Uyk8GJs0ojJgW)
 
-### Video Demonstration
+### Real-Time Dashboard
 
 ![Video Demonstration](https://github.com/KunakornMart/DADS6005/blob/main/Realtime-Video.gif?raw=true)
 

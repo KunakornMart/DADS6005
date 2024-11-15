@@ -52,8 +52,21 @@ Here is an overview of the real-time data analytics dashboard:
 
 ![Video Demonstration](https://github.com/KunakornMart/DADS6005/blob/main/Realtime-Video.gif?raw=true)
 
+
 You can view the live dashboard at [http://ec2-47-129-89-174.ap-southeast-1.compute.amazonaws.com:8501/](http://ec2-47-129-89-174.ap-southeast-1.compute.amazonaws.com:8501/).
 
+
+
 ## Future Enhancements
-- Incorporate more data sources and additional ksqlDB transformations.
-- Extend Pinot schemas for more complex queries.
+- **Incorporate More Data Sources**: Expand the system by integrating additional data sources, such as external APIs or IoT sensor data, to enrich the data pipeline and enhance the real-time analytics capabilities.
+  
+- **Advanced ksqlDB Transformations**: Enhance the data processing in ksqlDB by implementing more sophisticated SQL transformations, including time-based aggregations, sliding window calculations, and advanced filtering techniques to improve real-time decision-making.
+  
+- **Extend Pinot Schemas for More Complex Queries**: Expand the existing Pinot schemas to accommodate more complex and diverse queries, enabling the system to support deeper insights and a broader range of analytics, including predictive modeling and trend analysis.
+
+- **Real-Time Predictive Analytics**: Integrate predictive analytics into the system by developing models that can forecast trends, such as future page views or user behaviors, based on historical data processed through Kafka and ksqlDB.
+
+- **Integration with Third-Party Analytics Tools**: Integrate the platform with popular third-party analytics tools like Power BI, Tableau, or Grafana, allowing users to visualize the real-time data and insights through external dashboards and reporting systems.
+
+- **Scalability Improvements**: Focus on enhancing the scalability of the system by fine-tuning the Kafka partitioning strategy, optimizing Pinot data storage, and ensuring that the platform can handle increased data volume and user load efficiently.
+

@@ -52,9 +52,8 @@ You can view the live dashboard at [http://ec2-47-129-89-174.ap-southeast-1.comp
 
 ### Video Demonstration
 
-<video autoplay loop>
-  <source src="https://drive.google.com/file/d/1YjaO8ZfxZiTBHHyhw1Z_O-C3c7JiP51Y/view?usp=sharing" type="video/mp4">
-</video>
+![Video Demonstration](https://github.com/KunakornMart/DADS6005/blob/main/Realtime-Video.gif?raw=true)
+
 
 ## Future Enhancements
 - Incorporate more data sources and additional ksqlDB transformations.

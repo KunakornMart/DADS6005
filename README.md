@@ -59,10 +59,6 @@ You can view the live dashboard at [http://ec2-47-129-89-174.ap-southeast-1.comp
 
 ## Future Enhancements
 - **Incorporate More Data Sources**: Expand the system by integrating additional data sources, such as external APIs or IoT sensor data, to enrich the data pipeline and enhance the real-time analytics capabilities.
-  
-- **Advanced ksqlDB Transformations**: Enhance the data processing in ksqlDB by implementing more sophisticated SQL transformations, including time-based aggregations, sliding window calculations, and advanced filtering techniques to improve real-time decision-making.
-  
-- **Extend Pinot Schemas for More Complex Queries**: Expand the existing Pinot schemas to accommodate more complex and diverse queries, enabling the system to support deeper insights and a broader range of analytics, including predictive modeling and trend analysis.
 
 - **Real-Time Predictive Analytics**: Integrate predictive analytics into the system by developing models that can forecast trends, such as future page views or user behaviors, based on historical data processed through Kafka and ksqlDB.
 
